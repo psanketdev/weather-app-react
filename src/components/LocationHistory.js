@@ -10,11 +10,11 @@ const LocationHistory = () => {
       <h3 className="mb-3">Recent Search</h3>
       <ul className="d-flex flex-wrap justify-content-lg-between">
         {lastFiveData.map((location, index) => {
-          return (
-            <li key={index} className="text-capitalize">
-              {location}
-            </li>
-          );
+          // return (
+          //   <li key={index} className="text-capitalize">
+          //     {location}
+          //   </li>
+          // );
         })}
       </ul>
     </div>

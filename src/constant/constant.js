@@ -56,12 +56,12 @@ export const RESPONSIVE = {
   },
   tablet: {
     breakpoint: { max: 1024, min: 464 },
-    items: 5.5,
+    items: 4.5,
     slidesToSlide: 2,
   },
   mobile: {
     breakpoint: { max: 464, min: 0 },
-    items: 5.5,
+    items: 4.5,
     slidesToSlide: 1,
   }
 };

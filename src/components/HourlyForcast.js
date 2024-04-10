@@ -21,7 +21,7 @@ const HourlyForcast = ({ weatherData }) => {
       {forecast && (
         <Carousel
           responsive={RESPONSIVE}
-          swipeable={false}
+          swipeable={true}
           draggable={true}
           keyBoardControl={true}
           gap={15}

@@ -6,6 +6,7 @@ import useGetDateTime from "../hooks/useGetDateTime";
 import { useSelector, useDispatch } from "react-redux";
 import {
   DEFAULTS,
+  LOADER,
   checkWeatherIcon,
   fetchWeatherData,
 } from "../constant/constant";
@@ -114,7 +115,9 @@ const CurrentLocation = () => {
           </div>
         ) : (
           <div className="py-2">
-            <p className="text-danger">You enter a wrong location, Please try again!</p>
+            <p className="text-danger">
+              You enter a wrong location, Please try again!
+            </p>
           </div>
         )}
       </div>
