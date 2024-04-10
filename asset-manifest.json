@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.f11cc83a.css",
+    "main.js": "/weather-app-react/static/js/main.636945b5.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weather-app-react/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/Rainy.jpg": "/weather-app-react/static/media/Rainy.b7c6c12e4442eb910f7b.jpg",
+    "static/media/snow.jpg": "/weather-app-react/static/media/snow.21f6316daf01b520b0c2.jpg",
+    "static/media/Clear.jpg": "/weather-app-react/static/media/Clear.abd78e190dc55cb5dde0.jpg",
+    "static/media/fog.png": "/weather-app-react/static/media/fog.0ae156051d06c1ae77f6.png",
+    "static/media/Stormy.jpg": "/weather-app-react/static/media/Stormy.23b1da6c8ab25b68bdc6.jpg",
+    "static/media/weather.jpg": "/weather-app-react/static/media/weather.ec07642c68751f9edc69.jpg",
+    "static/media/Cloudy.jpg": "/weather-app-react/static/media/Cloudy.d606f3d44eaaf679398a.jpg",
+    "static/media/revicons.eot": "/weather-app-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/weather-app-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/weather-app-react/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/weather-app-react/index.html",
+    "main.f11cc83a.css.map": "/weather-app-react/static/css/main.f11cc83a.css.map",
+    "main.636945b5.js.map": "/weather-app-react/static/js/main.636945b5.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weather-app-react/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f11cc83a.css",
+    "static/js/main.636945b5.js"
+  ]
+}
